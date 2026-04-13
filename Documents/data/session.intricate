@@ -14,7 +14,7 @@
       "z_value": -9.96500000000002,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83d\ude32",
       "source_path": "C:\\Users\\thisg\\Desktop\\Chapter 16\\Clips\\Gen-3 Alpha Turbo 3873545513, hair waving in the w, Cropped - downloaded, M 5.mp4",
       "caption": "Gen-3 Alpha Turbo 3873545513, hair waving in the w, Cropped - downloaded, M 5",
       "volume": 50,
@@ -29,22 +29,22 @@
       "node_type": "video",
       "title": "Video",
       "uuid": "266e5e6b9cd44d6c9c15a879813502f4",
-      "x": 880.0000000000005,
-      "y": 449.0909090909094,
+      "x": 882.5316455696208,
+      "y": 446.55926352128915,
       "width": 996.8967402538593,
       "height": 586.8576197981212,
       "z_value": -9.967000000000018,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude12",
+      "emoji": "\ud83d\ude1a",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Compelling Header.mp4",
       "caption": "Compelling Header",
       "volume": 50,
-      "playback_pos": 12012,
+      "playback_pos": 29988,
       "looping": true,
       "muted": false,
       "show_border": false,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -58,7 +58,7 @@
       "z_value": -9.969000000000017,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udd70",
+      "emoji": "\ud83d\ude0f",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\Gen-4 delicate arrangement being put into place 3217016687.mp4",
       "caption": "Gen-4 delicate arrangement being put into place 3217016687",
       "volume": 50,
@@ -73,22 +73,22 @@
       "node_type": "video",
       "title": "Video",
       "uuid": "1ef2a63e85434b2692641dc6a154672e",
-      "x": 925.454545454546,
-      "y": -176.36363636363683,
+      "x": 930.5178365937861,
+      "y": -173.83199079401658,
       "width": 736.4706446870998,
       "height": 561.9937513747332,
       "z_value": -9.971000000000016,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\udc9c",
+      "emoji": "\ud83d\ude25",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\Gen-4 Turbo ambient dolly zoom towards the horizon 4175317116.mp4",
       "caption": "Gen-4 Turbo ambient dolly zoom towards the horizon 4175317116",
       "volume": 50,
-      "playback_pos": 3708,
+      "playback_pos": 4333,
       "looping": true,
       "muted": false,
       "show_border": false,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -102,15 +102,15 @@
       "z_value": -9.973000000000015,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude18",
+      "emoji": "\ud83d\ude0a",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\Gen-4 hair gently waving in the soft warm wind 3099853878.mp4",
       "caption": "Gen-4 hair gently waving in the soft warm wind 3099853878",
       "volume": 50,
-      "playback_pos": 3541,
+      "playback_pos": 3208,
       "looping": true,
       "muted": false,
       "show_border": false,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -124,7 +124,7 @@
       "z_value": -9.975000000000014,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\u2728",
+      "emoji": "\ud83d\udc95",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\Gen-4 Turbo Flipping pages 2232181539.mp4",
       "caption": "Gen-4 Turbo Flipping pages 2232181539",
       "volume": 50,
@@ -146,7 +146,7 @@
       "z_value": -9.976000000000013,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude32",
+      "emoji": "\ud83d\ude0d",
       "label": "It's so good that you can even use it Twice",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -163,7 +163,7 @@
       "z_value": -9.977000000000013,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0b",
+      "emoji": "\ud83d\ude0d",
       "label": "New is an amazing word",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -180,7 +180,7 @@
       "z_value": -9.978000000000012,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude25",
+      "emoji": "\ud83e\udd17",
       "label": "And Fresh",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -197,7 +197,7 @@
       "z_value": -9.979000000000012,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udd17",
+      "emoji": "\ud83d\udc95",
       "label": "Using words like new",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -214,7 +214,7 @@
       "z_value": -9.980000000000011,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0d",
+      "emoji": "\ud83d\ude07",
       "label": "In any case its good to start a book like this",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -231,7 +231,7 @@
       "z_value": -9.98100000000001,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udee4",
+      "emoji": "\ud83e\uddf8",
       "label": "It would have changed by then",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -248,7 +248,7 @@
       "z_value": -9.98200000000001,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udd17",
+      "emoji": "\ud83d\ude2e",
       "label": "It wouldn't make sense",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -265,7 +265,7 @@
       "z_value": -9.98300000000001,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude32",
+      "emoji": "\ud83d\ude17",
       "label": "If anyone would ever try to understand it's grand plans",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -282,7 +282,7 @@
       "z_value": -9.984000000000009,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0b",
+      "emoji": "\ud83d\ude1a",
       "label": "Comfort",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -299,7 +299,7 @@
       "z_value": -9.985000000000008,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0f",
+      "emoji": "\ud83d\udc95",
       "label": "Intricate",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -316,7 +316,7 @@
       "z_value": -9.986000000000008,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude42\u200d\u2194\ufe0f",
+      "emoji": "\ud83d\ude0f",
       "label": "Fulfillment",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -333,7 +333,7 @@
       "z_value": -9.987000000000007,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude09",
+      "emoji": "\ud83e\uddf8",
       "label": "It's only thinking about satisfaction",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -350,7 +350,7 @@
       "z_value": -9.988000000000007,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0e",
+      "emoji": "\ud83d\ude07",
       "label": "And a captivating Title",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -384,7 +384,7 @@
       "z_value": -9.993000000000004,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude2f",
+      "emoji": "\ud83d\udccc",
       "image_b64": "",
       "caption": "downloadedImagez",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Images\\downloadedImagez.PNG",
@@ -403,7 +403,7 @@
       "z_value": -9.994000000000003,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0b",
+      "emoji": "\ud83d\ude2c",
       "image_b64": "",
       "caption": "downloadedImage (3)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Images\\downloadedImage (3).png",
@@ -422,7 +422,7 @@
       "z_value": -9.995000000000003,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\udc9c",
+      "emoji": "\ud83e\udd70",
       "image_b64": "",
       "caption": "downloadedImage (2)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Images\\downloadedImage (2).png",
@@ -477,9 +477,9 @@
     }
   ],
   "viewport": {
-    "camera_x": 267.0886075949367,
-    "camera_y": -124.05063291139241,
+    "camera_x": 300.0,
+    "camera_y": 70.8860759493671,
     "camera_zoom": 0.7899999999999999
   },
-  "checksum": "d4983541a7bf7e22"
+  "checksum": "6b1c42151d339a90"
 }
