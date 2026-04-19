@@ -14,7 +14,7 @@
       "z_value": -9.96500000000002,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\udccc",
+      "emoji": "\ud83d\ude32",
       "source_path": "C:\\Users\\thisg\\Desktop\\Chapter 16\\Clips\\Gen-3 Alpha Turbo 3873545513, hair waving in the w, Cropped - downloaded, M 5.mp4",
       "caption": "Gen-3 Alpha Turbo 3873545513, hair waving in the w, Cropped - downloaded, M 5",
       "volume": 50,
@@ -36,11 +36,11 @@
       "z_value": -9.967000000000018,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude09",
+      "emoji": "\ud83d\ude1a",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Compelling Header.mp4",
       "caption": "Compelling Header",
       "volume": 50,
-      "playback_pos": 26317,
+      "playback_pos": 29988,
       "looping": true,
       "muted": false,
       "show_border": false,
@@ -58,7 +58,7 @@
       "z_value": -9.969000000000017,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude25",
+      "emoji": "\ud83d\ude0f",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\Gen-4 delicate arrangement being put into place 3217016687.mp4",
       "caption": "Gen-4 delicate arrangement being put into place 3217016687",
       "volume": 50,
@@ -80,11 +80,11 @@
       "z_value": -9.971000000000016,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude2f",
+      "emoji": "\ud83d\ude25",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\Gen-4 Turbo ambient dolly zoom towards the horizon 4175317116.mp4",
       "caption": "Gen-4 Turbo ambient dolly zoom towards the horizon 4175317116",
       "volume": 50,
-      "playback_pos": 666,
+      "playback_pos": 4333,
       "looping": true,
       "muted": false,
       "show_border": false,
@@ -102,11 +102,11 @@
       "z_value": -9.973000000000015,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude18",
+      "emoji": "\ud83d\ude0a",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\Gen-4 hair gently waving in the soft warm wind 3099853878.mp4",
       "caption": "Gen-4 hair gently waving in the soft warm wind 3099853878",
       "volume": 50,
-      "playback_pos": 4625,
+      "playback_pos": 3208,
       "looping": true,
       "muted": false,
       "show_border": false,
@@ -124,7 +124,7 @@
       "z_value": -9.975000000000014,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0b",
+      "emoji": "\ud83d\udc95",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\Gen-4 Turbo Flipping pages 2232181539.mp4",
       "caption": "Gen-4 Turbo Flipping pages 2232181539",
       "volume": 50,
@@ -146,7 +146,7 @@
       "z_value": -9.976000000000013,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udee4",
+      "emoji": "\ud83d\ude0d",
       "label": "It's so good that you can even use it Twice",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -163,7 +163,7 @@
       "z_value": -9.977000000000013,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\udc9c",
+      "emoji": "\ud83d\ude0d",
       "label": "New is an amazing word",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -180,7 +180,7 @@
       "z_value": -9.978000000000012,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude07",
+      "emoji": "\ud83e\udd17",
       "label": "And Fresh",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -197,7 +197,7 @@
       "z_value": -9.979000000000012,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\u2728",
+      "emoji": "\ud83d\udc95",
       "label": "Using words like new",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -214,7 +214,7 @@
       "z_value": -9.980000000000011,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udee4",
+      "emoji": "\ud83d\ude07",
       "label": "In any case its good to start a book like this",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -231,7 +231,7 @@
       "z_value": -9.98100000000001,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udd17",
+      "emoji": "\ud83e\uddf8",
       "label": "It would have changed by then",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -248,7 +248,7 @@
       "z_value": -9.98200000000001,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83d\ude2e",
       "label": "It wouldn't make sense",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -265,7 +265,7 @@
       "z_value": -9.98300000000001,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude2f",
+      "emoji": "\ud83d\ude17",
       "label": "If anyone would ever try to understand it's grand plans",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -282,7 +282,7 @@
       "z_value": -9.984000000000009,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0e",
+      "emoji": "\ud83d\ude1a",
       "label": "Comfort",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -299,7 +299,7 @@
       "z_value": -9.985000000000008,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0e",
+      "emoji": "\ud83d\udc95",
       "label": "Intricate",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -316,7 +316,7 @@
       "z_value": -9.986000000000008,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude1a",
+      "emoji": "\ud83d\ude0f",
       "label": "Fulfillment",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -333,7 +333,7 @@
       "z_value": -9.987000000000007,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\u2728",
+      "emoji": "\ud83e\uddf8",
       "label": "It's only thinking about satisfaction",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -350,7 +350,7 @@
       "z_value": -9.988000000000007,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\udc96",
+      "emoji": "\ud83d\ude07",
       "label": "And a captivating Title",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -367,7 +367,7 @@
       "z_value": -9.989000000000006,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0e",
+      "emoji": "\ud83d\ude07",
       "label": "Compelling Header",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -384,7 +384,7 @@
       "z_value": -9.993000000000004,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udee7",
+      "emoji": "\ud83d\udccc",
       "image_b64": "",
       "caption": "downloadedImagez",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Images\\downloadedImagez.PNG",
@@ -403,7 +403,7 @@
       "z_value": -9.994000000000003,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83d\ude0d",
+      "emoji": "\ud83d\ude2c",
       "image_b64": "",
       "caption": "downloadedImage (3)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Images\\downloadedImage (3).png",
@@ -422,7 +422,7 @@
       "z_value": -9.995000000000003,
       "ports_visible": false,
       "shelf_visible": false,
-      "emoji": "\ud83e\udee7",
+      "emoji": "\ud83e\udd70",
       "image_b64": "",
       "caption": "downloadedImage (2)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Images\\downloadedImage (2).png",
@@ -432,54 +432,54 @@
   ],
   "connections": [
     {
-      "start_uuid": "3e102aafb5734cc0a84cb2884cdb5280",
-      "end_uuid": "c0c8daf2d0ec41b7a23ccffab8a374bb"
-    },
-    {
-      "start_uuid": "09d055c558014d1f9acb3b4ec414c79c",
-      "end_uuid": "b6f20e0ed63240498496fd3188de78a6"
-    },
-    {
-      "start_uuid": "2dff69fd57c44b88b6b16fb4f335dcf3",
-      "end_uuid": "09d055c558014d1f9acb3b4ec414c79c"
-    },
-    {
-      "start_uuid": "28a51f34f5a64587bc359c6dacbc01ec",
-      "end_uuid": "2dff69fd57c44b88b6b16fb4f335dcf3"
-    },
-    {
-      "start_uuid": "def8fb3bf9a54b77a1a8b39453dc6ced",
-      "end_uuid": "28a51f34f5a64587bc359c6dacbc01ec"
-    },
-    {
-      "start_uuid": "2c1ae4e88dcc472d88d0073c32c944a4",
-      "end_uuid": "b422b1ba5e2f4a90bc9bd2649260fdd7"
-    },
-    {
-      "start_uuid": "c0c8daf2d0ec41b7a23ccffab8a374bb",
-      "end_uuid": "2c1ae4e88dcc472d88d0073c32c944a4"
-    },
-    {
-      "start_uuid": "557cceeac0b24ee59795525a283e07b3",
-      "end_uuid": "3e102aafb5734cc0a84cb2884cdb5280"
-    },
-    {
-      "start_uuid": "d9fd9d3df6134faa8b463561bd147a0e",
-      "end_uuid": "557cceeac0b24ee59795525a283e07b3"
+      "start_uuid": "87371beabc7f4936a68d12a838d7c88c",
+      "end_uuid": "2103be4c778d48cd97c72e9b94b609de"
     },
     {
       "start_uuid": "2103be4c778d48cd97c72e9b94b609de",
       "end_uuid": "d9fd9d3df6134faa8b463561bd147a0e"
     },
     {
-      "start_uuid": "87371beabc7f4936a68d12a838d7c88c",
-      "end_uuid": "2103be4c778d48cd97c72e9b94b609de"
+      "start_uuid": "d9fd9d3df6134faa8b463561bd147a0e",
+      "end_uuid": "557cceeac0b24ee59795525a283e07b3"
+    },
+    {
+      "start_uuid": "557cceeac0b24ee59795525a283e07b3",
+      "end_uuid": "3e102aafb5734cc0a84cb2884cdb5280"
+    },
+    {
+      "start_uuid": "c0c8daf2d0ec41b7a23ccffab8a374bb",
+      "end_uuid": "2c1ae4e88dcc472d88d0073c32c944a4"
+    },
+    {
+      "start_uuid": "2c1ae4e88dcc472d88d0073c32c944a4",
+      "end_uuid": "b422b1ba5e2f4a90bc9bd2649260fdd7"
+    },
+    {
+      "start_uuid": "def8fb3bf9a54b77a1a8b39453dc6ced",
+      "end_uuid": "28a51f34f5a64587bc359c6dacbc01ec"
+    },
+    {
+      "start_uuid": "28a51f34f5a64587bc359c6dacbc01ec",
+      "end_uuid": "2dff69fd57c44b88b6b16fb4f335dcf3"
+    },
+    {
+      "start_uuid": "2dff69fd57c44b88b6b16fb4f335dcf3",
+      "end_uuid": "09d055c558014d1f9acb3b4ec414c79c"
+    },
+    {
+      "start_uuid": "09d055c558014d1f9acb3b4ec414c79c",
+      "end_uuid": "b6f20e0ed63240498496fd3188de78a6"
+    },
+    {
+      "start_uuid": "3e102aafb5734cc0a84cb2884cdb5280",
+      "end_uuid": "c0c8daf2d0ec41b7a23ccffab8a374bb"
     }
   ],
   "viewport": {
-    "camera_x": 301.26582278481015,
-    "camera_y": 72.15189873417722,
+    "camera_x": 300.0,
+    "camera_y": 70.8860759493671,
     "camera_zoom": 0.7899999999999999
   },
-  "checksum": "3f17b3a10d1d8474"
+  "checksum": "6b1c42151d339a90"
 }
