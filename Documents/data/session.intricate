@@ -25,21 +25,6 @@
     },
     {
       "node_id": 0,
-      "node_type": "git",
-      "title": "Git Status",
-      "uuid": "7aecc0a9dcae465499620cdd68c7cca1",
-      "x": -809.3852348533767,
-      "y": -869.5379758857548,
-      "width": 300.0,
-      "height": 332.0,
-      "z_value": 0.0,
-      "ports_visible": false,
-      "shelf_visible": true,
-      "depth_front": false,
-      "node_tint": ""
-    },
-    {
-      "node_id": 0,
       "node_type": "video",
       "title": "Video",
       "uuid": "112c1310b9324714bb6c33f1dd4dd852",
@@ -104,7 +89,7 @@
       "source_mtime": 1746776250.9864893,
       "caption": "Gen-4 delicate arrangement being put into place 3217016687",
       "volume": 50,
-      "playback_pos": 4666,
+      "playback_pos": 2666,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -128,7 +113,7 @@
       "source_mtime": 1746776250.985492,
       "caption": "Gen-4 Turbo ambient dolly zoom towards the horizon 4175317116",
       "volume": 50,
-      "playback_pos": 2541,
+      "playback_pos": 4458,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -152,7 +137,7 @@
       "source_mtime": 1746776250.9874973,
       "caption": "Gen-4 hair gently waving in the soft warm wind 3099853878",
       "volume": 50,
-      "playback_pos": 3166,
+      "playback_pos": 708,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -176,7 +161,7 @@
       "source_mtime": 1746776250.9844878,
       "caption": "Gen-4 Turbo Flipping pages 2232181539",
       "volume": 50,
-      "playback_pos": 583,
+      "playback_pos": 4208,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -492,12 +477,12 @@
     }
   ],
   "viewport": {
-    "camera_x": -461.34444560884447,
-    "camera_y": -913.8381584482147,
+    "camera_x": 608.4878779013536,
+    "camera_y": -669.336665691489,
     "camera_zoom": 0.9038799620740587
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "092d8b3737484ab9"
+  "checksum": "c1ffed7119647b6f"
 }
