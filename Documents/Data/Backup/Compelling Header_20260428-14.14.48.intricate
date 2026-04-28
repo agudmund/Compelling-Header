@@ -393,7 +393,7 @@
       "source_size": 1590850,
       "source_mtime": 1746776250.9844878,
       "caption": "Flipping Pages",
-      "playback_pos": 2291,
+      "playback_pos": 4000,
       "loop_mode": "pingpong",
       "show_border": true,
       "was_playing": true
@@ -415,7 +415,7 @@
       "source_size": 2040078,
       "source_mtime": 1746776250.9864893,
       "caption": "More Clay, Yay! - Delicate Arrangement",
-      "playback_pos": 4750,
+      "playback_pos": 3958,
       "loop_mode": "pingpong",
       "show_border": true,
       "was_playing": true
@@ -573,21 +573,6 @@
     },
     {
       "node_id": 0,
-      "node_type": "git",
-      "title": "Git Status",
-      "uuid": "634b12a0fc5142e796fb07e2e0a55823",
-      "x": 988.2091897266587,
-      "y": -854.2402717974271,
-      "width": 300.0,
-      "height": 192.0,
-      "z_value": 0.0,
-      "ports_visible": false,
-      "shelf_visible": true,
-      "depth_front": false,
-      "node_tint": ""
-    },
-    {
-      "node_id": 0,
       "node_type": "video",
       "title": "Video",
       "uuid": "3377bdb8d0804e16816c1200bcc8e4c9",
@@ -623,6 +608,50 @@
       "label": "New is an amazing word",
       "depth_front": false,
       "node_tint": "#2a3a2f"
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "Redacted",
+      "uuid": "50fca30fa9f1499c923fda70df53208b",
+      "x": 1130.3722790257216,
+      "y": -843.8801626101401,
+      "width": 344.7024721379314,
+      "height": 106.90291911893212,
+      "z_value": -9.913000000000048,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Summary of final decisions on totalitarian world regimes\nAnd cute mascots"
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "Some low effort high gain ratio things",
+      "uuid": "b31c079e56804d83b3dbb5d92584b530",
+      "x": 1238.7688094971895,
+      "y": -711.9273412599271,
+      "width": 452.24248284482155,
+      "height": 118.0,
+      "z_value": -9.914000000000048,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Ranked roughly on a scale of how quickly can I see something cool"
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "A Single grain of patience is worth more than a ton of ambition",
+      "uuid": "2a2afe1d124249888173a02206c9c5e9",
+      "x": 1027.6292686547192,
+      "y": -913.2810630650285,
+      "width": 658.0,
+      "height": 29.0,
+      "z_value": -9.912000000000049,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "A Single grain of patience is worth more than a ton of ambition",
+      "depth_front": false,
+      "node_tint": ""
     }
   ],
   "connections": [
@@ -701,15 +730,23 @@
     {
       "start_uuid": "557cceeac0b24ee59795525a283e07b3",
       "end_uuid": "3e102aafb5734cc0a84cb2884cdb5280"
+    },
+    {
+      "start_uuid": "50fca30fa9f1499c923fda70df53208b",
+      "end_uuid": "b31c079e56804d83b3dbb5d92584b530"
+    },
+    {
+      "start_uuid": "2a2afe1d124249888173a02206c9c5e9",
+      "end_uuid": "50fca30fa9f1499c923fda70df53208b"
     }
   ],
   "viewport": {
-    "camera_x": 1262.3440064440836,
-    "camera_y": -1274.380659664051,
+    "camera_x": 856.106960270183,
+    "camera_y": -1445.902968048587,
     "camera_zoom": 0.6646365774440456
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "7e6dff76e2dbc0bc"
+  "checksum": "cab16eee6c17d7cb"
 }
