@@ -393,7 +393,7 @@
       "source_size": 1590850,
       "source_mtime": 1746776250.9844878,
       "caption": "Flipping Pages",
-      "playback_pos": 1499,
+      "playback_pos": 2291,
       "loop_mode": "pingpong",
       "show_border": true,
       "was_playing": true
@@ -579,7 +579,7 @@
       "x": 988.2091897266587,
       "y": -854.2402717974271,
       "width": 300.0,
-      "height": 132.0,
+      "height": 192.0,
       "z_value": 0.0,
       "ports_visible": false,
       "shelf_visible": true,
@@ -705,11 +705,11 @@
   ],
   "viewport": {
     "camera_x": 1262.3440064440836,
-    "camera_y": -1266.8577514015715,
+    "camera_y": -1274.380659664051,
     "camera_zoom": 0.6646365774440456
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "47acde92a741af97"
+  "checksum": "7e6dff76e2dbc0bc"
 }
