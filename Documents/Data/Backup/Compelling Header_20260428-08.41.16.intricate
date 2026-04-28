@@ -108,8 +108,8 @@
       "node_type": "video",
       "title": "Video",
       "uuid": "9047a119dfc14f44940921e45c2f9462",
-      "x": 201.56571345147006,
-      "y": -884.9120987297858,
+      "x": 230.91620969139797,
+      "y": -886.3796235417824,
       "width": 458.3709805089276,
       "height": 473.3709805089276,
       "z_value": -9.975000000000014,
@@ -142,6 +142,21 @@
       "label": "It's only thinking about satisfaction",
       "depth_front": false,
       "node_tint": "#2a3a2f"
+    },
+    {
+      "node_id": 0,
+      "node_type": "git",
+      "title": "Git Status",
+      "uuid": "0743c9d73af44acdb28d8b5a925c5565",
+      "x": -263.5833093268144,
+      "y": -954.4217884292568,
+      "width": 300.0,
+      "height": 232.0,
+      "z_value": 0.0,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "depth_front": false,
+      "node_tint": ""
     },
     {
       "node_id": 0,
@@ -198,7 +213,7 @@
       "source_mtime": 1777360451.7122843,
       "caption": "More Clay, Yay! - Decisions",
       "volume": 50,
-      "playback_pos": 1000,
+      "playback_pos": 416,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -222,7 +237,7 @@
       "source_mtime": 1746776250.9864893,
       "caption": "More Clay, Yay! - Delicate Arrangement",
       "volume": 50,
-      "playback_pos": 41,
+      "playback_pos": 3708,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -299,7 +314,7 @@
       "source_mtime": 1746776250.9874973,
       "caption": "Gen-4 hair gently waving in the soft warm wind 3099853878",
       "volume": 50,
-      "playback_pos": 3291,
+      "playback_pos": 3708,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -323,7 +338,7 @@
       "source_mtime": 1746374795.2638292,
       "caption": "Gen-3 Alpha Turbo 3873545513, hair waving in the w, Cropped - downloaded, M 5",
       "volume": 50,
-      "playback_pos": 1041,
+      "playback_pos": 2708,
       "looping": true,
       "muted": true,
       "show_border": false,
@@ -347,7 +362,7 @@
       "source_mtime": 1746776250.985492,
       "caption": "Gen-4 Turbo ambient dolly zoom towards the horizon 4175317116",
       "volume": 50,
-      "playback_pos": 4416,
+      "playback_pos": 3291,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -371,7 +386,7 @@
       "source_mtime": 1746777974.8455167,
       "caption": "Compelling Header",
       "volume": 50,
-      "playback_pos": 68401,
+      "playback_pos": 6506,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -427,7 +442,7 @@
       "source_mtime": 1777362903.5822196,
       "caption": "More Clay, Yay! - Things",
       "volume": 50,
-      "playback_pos": 666,
+      "playback_pos": 416,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -467,7 +482,7 @@
       "source_mtime": 1777360720.047215,
       "caption": "More Clay, Yay! - Closer",
       "volume": 50,
-      "playback_pos": 458,
+      "playback_pos": 1000,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -512,7 +527,7 @@
       "uuid": "b0455c80f5d34efaa194784680fbec45",
       "x": -899.3597935917138,
       "y": 348.7063143218641,
-      "width": 380.2948513130324,
+      "width": 372.50465865674647,
       "height": 387.50465865674647,
       "z_value": -9.94700000000003,
       "ports_visible": false,
@@ -523,7 +538,7 @@
       "source_mtime": 1777361292.166308,
       "caption": "More Clay, Yay! - Aligned",
       "volume": 50,
-      "playback_pos": 500,
+      "playback_pos": 750,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -552,8 +567,16 @@
       "end_uuid": "1ef2a63e85434b2692641dc6a154672e"
     },
     {
+      "start_uuid": "e5528d252c9b4af89469c9f787686bd1",
+      "end_uuid": "4e5857f91853419f870e361aa4f5f0c5"
+    },
+    {
       "start_uuid": "28a51f34f5a64587bc359c6dacbc01ec",
       "end_uuid": "2dff69fd57c44b88b6b16fb4f335dcf3"
+    },
+    {
+      "start_uuid": "b0455c80f5d34efaa194784680fbec45",
+      "end_uuid": "e5528d252c9b4af89469c9f787686bd1"
     },
     {
       "start_uuid": "557cceeac0b24ee59795525a283e07b3",
@@ -562,6 +585,10 @@
     {
       "start_uuid": "1ef2a63e85434b2692641dc6a154672e",
       "end_uuid": "2c1ae4e88dcc472d88d0073c32c944a4"
+    },
+    {
+      "start_uuid": "60547ae8406644e68f656dbe6a6c54c5",
+      "end_uuid": "b0455c80f5d34efaa194784680fbec45"
     },
     {
       "start_uuid": "09d055c558014d1f9acb3b4ec414c79c",
@@ -594,27 +621,15 @@
     {
       "start_uuid": "c86e36949e1e434ca362c78e6cf37dce",
       "end_uuid": "41d0f325ecd8410eadeaf8b1eeacc8cc"
-    },
-    {
-      "start_uuid": "60547ae8406644e68f656dbe6a6c54c5",
-      "end_uuid": "b0455c80f5d34efaa194784680fbec45"
-    },
-    {
-      "start_uuid": "b0455c80f5d34efaa194784680fbec45",
-      "end_uuid": "e5528d252c9b4af89469c9f787686bd1"
-    },
-    {
-      "start_uuid": "e5528d252c9b4af89469c9f787686bd1",
-      "end_uuid": "4e5857f91853419f870e361aa4f5f0c5"
     }
   ],
   "viewport": {
-    "camera_x": -135.9797305414911,
-    "camera_y": -927.1345264192576,
-    "camera_zoom": 0.2426832283649128
+    "camera_x": 374.2188270590819,
+    "camera_y": -984.709148849584,
+    "camera_zoom": 0.6814194838992974
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "0ebfd1b8e14b6722"
+  "checksum": "584e4937c2e4cbfa"
 }

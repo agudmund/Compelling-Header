@@ -108,8 +108,8 @@
       "node_type": "video",
       "title": "Video",
       "uuid": "9047a119dfc14f44940921e45c2f9462",
-      "x": 198.4496363889557,
-      "y": -866.2156363546995,
+      "x": 230.91620969139797,
+      "y": -886.3796235417824,
       "width": 458.3709805089276,
       "height": 473.3709805089276,
       "z_value": -9.975000000000014,
@@ -121,7 +121,7 @@
       "source_mtime": 1746776250.9844878,
       "caption": "Gen-4 Turbo Flipping pages 2232181539",
       "volume": 50,
-      "playback_pos": 1333,
+      "playback_pos": 1083,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -142,6 +142,21 @@
       "label": "It's only thinking about satisfaction",
       "depth_front": false,
       "node_tint": "#2a3a2f"
+    },
+    {
+      "node_id": 0,
+      "node_type": "git",
+      "title": "Git Status",
+      "uuid": "0743c9d73af44acdb28d8b5a925c5565",
+      "x": -263.5833093268144,
+      "y": -954.4217884292568,
+      "width": 300.0,
+      "height": 232.0,
+      "z_value": 0.0,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "depth_front": false,
+      "node_tint": ""
     },
     {
       "node_id": 0,
@@ -198,7 +213,7 @@
       "source_mtime": 1777360451.7122843,
       "caption": "More Clay, Yay! - Decisions",
       "volume": 50,
-      "playback_pos": 250,
+      "playback_pos": 416,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -222,7 +237,7 @@
       "source_mtime": 1746776250.9864893,
       "caption": "More Clay, Yay! - Delicate Arrangement",
       "volume": 50,
-      "playback_pos": 4625,
+      "playback_pos": 3708,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -299,7 +314,7 @@
       "source_mtime": 1746776250.9874973,
       "caption": "Gen-4 hair gently waving in the soft warm wind 3099853878",
       "volume": 50,
-      "playback_pos": 291,
+      "playback_pos": 3708,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -323,7 +338,7 @@
       "source_mtime": 1746374795.2638292,
       "caption": "Gen-3 Alpha Turbo 3873545513, hair waving in the w, Cropped - downloaded, M 5",
       "volume": 50,
-      "playback_pos": 4500,
+      "playback_pos": 2708,
       "looping": true,
       "muted": true,
       "show_border": false,
@@ -347,7 +362,7 @@
       "source_mtime": 1746776250.985492,
       "caption": "Gen-4 Turbo ambient dolly zoom towards the horizon 4175317116",
       "volume": 50,
-      "playback_pos": 4458,
+      "playback_pos": 3291,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -371,7 +386,7 @@
       "source_mtime": 1746777974.8455167,
       "caption": "Compelling Header",
       "volume": 50,
-      "playback_pos": 9968,
+      "playback_pos": 6506,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -411,17 +426,41 @@
     },
     {
       "node_id": 0,
-      "node_type": "about",
-      "title": "Note",
-      "uuid": "fdf248f56ab7420f95bca8a67384aea1",
-      "x": 851.4681299938688,
-      "y": -865.2208264673575,
-      "width": 538.0,
-      "height": 30.0,
-      "z_value": -9.962000000000021,
+      "node_type": "video",
+      "title": "Video",
+      "uuid": "e5528d252c9b4af89469c9f787686bd1",
+      "x": -1238.4560191388282,
+      "y": 617.6657369402244,
+      "width": 265.0,
+      "height": 280.0,
+      "z_value": -9.94500000000003,
       "ports_visible": false,
       "shelf_visible": false,
-      "label": "grok-video-9ca564d2-5e4b-427d-b13f-662b38cc26d5 (4)",
+      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\More Clay, Yay! - Things.mp4",
+      "cache_key": "aa77f99cc0e0c9f5f2c56b38196a9a7613385e2bfbb6d4ab7987fb061a21b9de.mp4",
+      "source_size": 1421219,
+      "source_mtime": 1777362903.5822196,
+      "caption": "More Clay, Yay! - Things",
+      "volume": 50,
+      "playback_pos": 416,
+      "looping": true,
+      "muted": true,
+      "show_border": true,
+      "was_playing": true
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "60547ae8406644e68f656dbe6a6c54c5",
+      "x": -440.7402911351436,
+      "y": 606.0580306887855,
+      "width": 268.0,
+      "height": 30.0,
+      "z_value": -9.944000000000031,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "More Clay, Yay! - Things",
       "depth_front": false,
       "node_tint": ""
     },
@@ -429,65 +468,25 @@
       "node_id": 0,
       "node_type": "video",
       "title": "Video",
-      "uuid": "58757486be9f432da541d89996b0f2f0",
-      "x": 1438.4832754578333,
-      "y": -809.178142862648,
+      "uuid": "4e5857f91853419f870e361aa4f5f0c5",
+      "x": -1506.7659639542235,
+      "y": 961.3894027820629,
       "width": 265.0,
       "height": 280.0,
-      "z_value": -9.961000000000022,
+      "z_value": -9.943000000000032,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Images\\More Clay\\grok-video-9ca564d2-5e4b-427d-b13f-662b38cc26d5 (5).mp4",
-      "cache_key": "79f332274a66ec11bf168ab2edbc63eee2b2a97d44d1eadf9b13afd9b220cec7.mp4",
-      "source_size": 12920230,
-      "source_mtime": 1771659180.560402,
-      "caption": "grok-video-9ca564d2-5e4b-427d-b13f-662b38cc26d5 (5)",
+      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clips\\More Clay, Yay! - Closer.mp4",
+      "cache_key": "2bc88ce6d7f7742611ca185848c5ddcda9894b5144823136a7edff790fdc5053.mp4",
+      "source_size": 1485380,
+      "source_mtime": 1777360720.047215,
+      "caption": "More Clay, Yay! - Closer",
       "volume": 50,
-      "playback_pos": 10041,
-      "looping": false,
+      "playback_pos": 1000,
+      "looping": true,
       "muted": true,
       "show_border": true,
-      "was_playing": false
-    },
-    {
-      "node_id": 0,
-      "node_type": "video",
-      "title": "Video",
-      "uuid": "05afa702ac30417293f9c0169bd1a9b0",
-      "x": 1117.9409189392372,
-      "y": -818.3135725504835,
-      "width": 265.0,
-      "height": 280.0,
-      "z_value": -9.96300000000002,
-      "ports_visible": false,
-      "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Images\\More Clay\\grok-video-9ca564d2-5e4b-427d-b13f-662b38cc26d5 (4).mp4",
-      "cache_key": "d1098cb2a77700e7f3c482583819cbda01cfe051143b117df519939fcdc0444d.mp4",
-      "source_size": 14159954,
-      "source_mtime": 1771659057.6688936,
-      "caption": "grok-video-9ca564d2-5e4b-427d-b13f-662b38cc26d5 (4)",
-      "volume": 50,
-      "playback_pos": 10041,
-      "looping": false,
-      "muted": true,
-      "show_border": true,
-      "was_playing": false
-    },
-    {
-      "node_id": 0,
-      "node_type": "about",
-      "title": "Note",
-      "uuid": "9ebd456f91b645699ca4259f974c1e5a",
-      "x": 1323.6471969183058,
-      "y": -919.8503724694931,
-      "width": 538.0,
-      "height": 30.0,
-      "z_value": -9.960000000000022,
-      "ports_visible": false,
-      "shelf_visible": false,
-      "label": "grok-video-9ca564d2-5e4b-427d-b13f-662b38cc26d5 (5)",
-      "depth_front": false,
-      "node_tint": ""
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -528,7 +527,7 @@
       "uuid": "b0455c80f5d34efaa194784680fbec45",
       "x": -899.3597935917138,
       "y": 348.7063143218641,
-      "width": 380.2948513130324,
+      "width": 372.50465865674647,
       "height": 387.50465865674647,
       "z_value": -9.94700000000003,
       "ports_visible": false,
@@ -539,7 +538,7 @@
       "source_mtime": 1777361292.166308,
       "caption": "More Clay, Yay! - Aligned",
       "volume": 50,
-      "playback_pos": 1458,
+      "playback_pos": 750,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -547,6 +546,10 @@
     }
   ],
   "connections": [
+    {
+      "start_uuid": "41d0f325ecd8410eadeaf8b1eeacc8cc",
+      "end_uuid": "b0455c80f5d34efaa194784680fbec45"
+    },
     {
       "start_uuid": "3e102aafb5734cc0a84cb2884cdb5280",
       "end_uuid": "c0c8daf2d0ec41b7a23ccffab8a374bb"
@@ -564,12 +567,16 @@
       "end_uuid": "1ef2a63e85434b2692641dc6a154672e"
     },
     {
+      "start_uuid": "e5528d252c9b4af89469c9f787686bd1",
+      "end_uuid": "4e5857f91853419f870e361aa4f5f0c5"
+    },
+    {
       "start_uuid": "28a51f34f5a64587bc359c6dacbc01ec",
       "end_uuid": "2dff69fd57c44b88b6b16fb4f335dcf3"
     },
     {
-      "start_uuid": "58757486be9f432da541d89996b0f2f0",
-      "end_uuid": "9ebd456f91b645699ca4259f974c1e5a"
+      "start_uuid": "b0455c80f5d34efaa194784680fbec45",
+      "end_uuid": "e5528d252c9b4af89469c9f787686bd1"
     },
     {
       "start_uuid": "557cceeac0b24ee59795525a283e07b3",
@@ -580,16 +587,16 @@
       "end_uuid": "2c1ae4e88dcc472d88d0073c32c944a4"
     },
     {
+      "start_uuid": "60547ae8406644e68f656dbe6a6c54c5",
+      "end_uuid": "b0455c80f5d34efaa194784680fbec45"
+    },
+    {
       "start_uuid": "09d055c558014d1f9acb3b4ec414c79c",
       "end_uuid": "b6f20e0ed63240498496fd3188de78a6"
     },
     {
       "start_uuid": "d9fd9d3df6134faa8b463561bd147a0e",
       "end_uuid": "557cceeac0b24ee59795525a283e07b3"
-    },
-    {
-      "start_uuid": "05afa702ac30417293f9c0169bd1a9b0",
-      "end_uuid": "fdf248f56ab7420f95bca8a67384aea1"
     },
     {
       "start_uuid": "2dff69fd57c44b88b6b16fb4f335dcf3",
@@ -614,19 +621,15 @@
     {
       "start_uuid": "c86e36949e1e434ca362c78e6cf37dce",
       "end_uuid": "41d0f325ecd8410eadeaf8b1eeacc8cc"
-    },
-    {
-      "start_uuid": "41d0f325ecd8410eadeaf8b1eeacc8cc",
-      "end_uuid": "b0455c80f5d34efaa194784680fbec45"
     }
   ],
   "viewport": {
-    "camera_x": 1205.9218231930688,
-    "camera_y": -1087.510894817522,
-    "camera_zoom": 0.6418326504371438
+    "camera_x": 374.2188270590819,
+    "camera_y": -984.709148849584,
+    "camera_zoom": 0.6814194838992974
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "e418665d28ce5844"
+  "checksum": "584e4937c2e4cbfa"
 }

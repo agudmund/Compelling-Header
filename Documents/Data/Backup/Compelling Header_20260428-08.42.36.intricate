@@ -121,7 +121,7 @@
       "source_mtime": 1746776250.9844878,
       "caption": "Gen-4 Turbo Flipping pages 2232181539",
       "volume": 50,
-      "playback_pos": 583,
+      "playback_pos": 1083,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -213,7 +213,7 @@
       "source_mtime": 1777360451.7122843,
       "caption": "More Clay, Yay! - Decisions",
       "volume": 50,
-      "playback_pos": 375,
+      "playback_pos": 416,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -237,7 +237,7 @@
       "source_mtime": 1746776250.9864893,
       "caption": "More Clay, Yay! - Delicate Arrangement",
       "volume": 50,
-      "playback_pos": 3166,
+      "playback_pos": 3708,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -362,7 +362,7 @@
       "source_mtime": 1746776250.985492,
       "caption": "Gen-4 Turbo ambient dolly zoom towards the horizon 4175317116",
       "volume": 50,
-      "playback_pos": 2625,
+      "playback_pos": 3291,
       "looping": true,
       "muted": true,
       "show_border": true,
@@ -625,11 +625,11 @@
   ],
   "viewport": {
     "camera_x": 374.2188270590819,
-    "camera_y": -983.2416240375877,
+    "camera_y": -984.709148849584,
     "camera_zoom": 0.6814194838992974
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "ad32d435f69d1d98"
+  "checksum": "584e4937c2e4cbfa"
 }
