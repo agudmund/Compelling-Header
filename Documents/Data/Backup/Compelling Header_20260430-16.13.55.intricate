@@ -206,12 +206,10 @@
       "source_size": 2040078,
       "source_mtime": 1746776250.9864893,
       "caption": "More Clay, Yay! - Delicate Arrangement",
-      "volume": 50,
-      "playback_pos": 5041,
-      "looping": false,
-      "muted": false,
+      "playback_pos": 1041,
+      "loop_mode": "pingpong",
       "show_border": true,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -246,12 +244,10 @@
       "source_size": 1590850,
       "source_mtime": 1746776250.9844878,
       "caption": "Flipping Pages",
-      "volume": 50,
-      "playback_pos": 5041,
-      "looping": false,
-      "muted": false,
+      "playback_pos": 2833,
+      "loop_mode": "pingpong",
       "show_border": true,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -276,7 +272,7 @@
       "uuid": "4d1033dfe398428483542fef7e272b7b",
       "x": -1587.7726363863676,
       "y": -51.63488248410954,
-      "width": 658.8595034645829,
+      "width": 650.8685298629997,
       "height": 301.42524389406543,
       "z_value": -9.91100000000005,
       "ports_visible": false,
@@ -286,10 +282,8 @@
       "source_size": 2322899,
       "source_mtime": 1746776250.9874973,
       "caption": "The Majestic",
-      "volume": 50,
-      "playback_pos": 1541,
-      "looping": true,
-      "muted": false,
+      "playback_pos": 3041,
+      "loop_mode": "loop",
       "show_border": true,
       "was_playing": true
     },
@@ -395,12 +389,10 @@
       "source_size": 1485380,
       "source_mtime": 1777360720.047215,
       "caption": "More Clay, Yay! - Closer",
-      "volume": 50,
-      "playback_pos": 1708,
-      "looping": false,
-      "muted": false,
+      "playback_pos": 0,
+      "loop_mode": "pingpong",
       "show_border": true,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -419,12 +411,10 @@
       "source_size": 1620030,
       "source_mtime": 1777361292.166308,
       "caption": "More Clay, Yay! - Aligned",
-      "volume": 50,
-      "playback_pos": 1916,
-      "looping": false,
-      "muted": false,
+      "playback_pos": 1333,
+      "loop_mode": "pingpong",
       "show_border": true,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -443,12 +433,10 @@
       "source_size": 1421219,
       "source_mtime": 1777362903.5822196,
       "caption": "More Clay, Yay! - Things",
-      "volume": 50,
-      "playback_pos": 1500,
-      "looping": false,
-      "muted": false,
+      "playback_pos": 666,
+      "loop_mode": "pingpong",
       "show_border": true,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -525,10 +513,8 @@
       "source_size": 34065378,
       "source_mtime": 1746777974.8455167,
       "caption": "Compelling Header",
-      "volume": 50,
-      "playback_pos": 29738,
-      "looping": true,
-      "muted": false,
+      "playback_pos": 21312,
+      "loop_mode": "loop",
       "show_border": true,
       "was_playing": true
     },
@@ -549,12 +535,10 @@
       "source_size": 2414796,
       "source_mtime": 1746374795.2638292,
       "caption": "Gen-3 Alpha Turbo 3873545513, hair waving in the w, Cropped - downloaded, M 5",
-      "volume": 50,
-      "playback_pos": 5208,
-      "looping": false,
-      "muted": false,
+      "playback_pos": 3958,
+      "loop_mode": "pingpong",
       "show_border": true,
-      "was_playing": false
+      "was_playing": true
     },
     {
       "node_id": 0,
@@ -610,10 +594,8 @@
       "source_size": 1088124,
       "source_mtime": 1746776250.985492,
       "caption": "Lovely day in the park",
-      "volume": 50,
-      "playback_pos": 1958,
-      "looping": true,
-      "muted": false,
+      "playback_pos": 4208,
+      "loop_mode": "loop",
       "show_border": true,
       "was_playing": true
     },
@@ -666,10 +648,8 @@
       "source_size": 1292848,
       "source_mtime": 1777360451.7122843,
       "caption": "More Clay, Yay! - Decisions",
-      "volume": 50,
-      "playback_pos": 916,
-      "looping": true,
-      "muted": false,
+      "playback_pos": 500,
+      "loop_mode": "loop",
       "show_border": true,
       "was_playing": true
     },
@@ -781,13 +761,12 @@
     }
   ],
   "viewport": {
-    "camera_x": -393.71597894133527,
-    "camera_y": 609.9370493435439,
+    "camera_x": -390.4887987860784,
+    "camera_y": 609.937049343544,
     "camera_zoom": 0.30986804327334233
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "last_browse_dirs": {},
-  "checksum": "31b3c598c62ffdea"
+  "checksum": "36e5b3202f78ddbf"
 }
