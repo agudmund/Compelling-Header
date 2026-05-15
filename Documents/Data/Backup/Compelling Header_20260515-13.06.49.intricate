@@ -611,7 +611,7 @@
       "source_mtime": 1746776250.985492,
       "caption": "Lovely day in the park",
       "volume": 50,
-      "playback_pos": 4916,
+      "playback_pos": 2583,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -781,13 +781,13 @@
     }
   ],
   "viewport": {
-    "camera_x": 1049.4435201320014,
-    "camera_y": -860.199606665575,
+    "camera_x": 1043.7088560875643,
+    "camera_y": -1427.9313470648542,
     "camera_zoom": 0.5231343940557616
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
   "last_browse_dirs": {},
-  "checksum": "00f1f083c0e32c50"
+  "checksum": "a07dca79f7e45417"
 }

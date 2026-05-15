@@ -89,7 +89,7 @@
       "height": 420.0,
       "z_value": -9.918000000000045,
       "ports_visible": false,
-      "shelf_visible": false,
+      "shelf_visible": true,
       "colors": [
         {
           "label": "#282828",
@@ -287,7 +287,7 @@
       "source_mtime": 1746776250.9874973,
       "caption": "The Majestic",
       "volume": 50,
-      "playback_pos": 4583,
+      "playback_pos": 1458,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -526,7 +526,7 @@
       "source_mtime": 1746777974.8455167,
       "caption": "Compelling Header",
       "volume": 50,
-      "playback_pos": 43460,
+      "playback_pos": 34492,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -611,7 +611,7 @@
       "source_mtime": 1746776250.985492,
       "caption": "Lovely day in the park",
       "volume": 50,
-      "playback_pos": 4916,
+      "playback_pos": 1416,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -667,7 +667,7 @@
       "source_mtime": 1777360451.7122843,
       "caption": "More Clay, Yay! - Decisions",
       "volume": 50,
-      "playback_pos": 833,
+      "playback_pos": 708,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -781,13 +781,13 @@
     }
   ],
   "viewport": {
-    "camera_x": 1049.4435201320014,
-    "camera_y": -860.199606665575,
-    "camera_zoom": 0.5231343940557616
+    "camera_x": -396.94315909659207,
+    "camera_y": 606.709869188287,
+    "camera_zoom": 0.30986804327334233
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
   "last_browse_dirs": {},
-  "checksum": "00f1f083c0e32c50"
+  "checksum": "69e39de5180fdd92"
 }
