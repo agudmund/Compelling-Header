@@ -1,6 +1,45 @@
 {
   "version": "1.0",
+  "display_name": "Compelling Header",
   "description": "Feels like the opening pages of a book taking shape \u2014 musings on newness, patience, comfort, with clay and video scattered around like margi\u2026",
+  "description_signature": {
+    "n_nodes": 31,
+    "n_edges": 22,
+    "density": 0.71,
+    "type_hist": {
+      "about": 0.452,
+      "warm": 0.065,
+      "palette": 0.032,
+      "video": 0.323,
+      "image": 0.129
+    },
+    "tag_bag": [
+      "video",
+      "clay",
+      "yay",
+      "new",
+      "good",
+      "like",
+      "image",
+      "header",
+      "captivating",
+      "title",
+      "things",
+      "single",
+      "grain",
+      "patience",
+      "worth",
+      "ton",
+      "ambition",
+      "amazing",
+      "word",
+      "comfort",
+      "case",
+      "its",
+      "start",
+      "book"
+    ]
+  },
   "nodes": [
     {
       "node_id": 0,
@@ -201,7 +240,7 @@
       "z_value": -9.930000000000039,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clippy\\More Clay, Yay! - Delicate Arrangement.mp4",
+      "source_path": "Documents/Data/Cache/d5a5c73fee1fd7bc8609113615a9ab7afdcc81634911f4dcd301d0db480de6d2.mp4",
       "cache_key": "d5a5c73fee1fd7bc8609113615a9ab7afdcc81634911f4dcd301d0db480de6d2.mp4",
       "source_size": 2040078,
       "source_mtime": 1746776250.9864893,
@@ -211,7 +250,8 @@
       "looping": false,
       "muted": false,
       "show_border": true,
-      "was_playing": false
+      "was_playing": false,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -241,7 +281,7 @@
       "z_value": -9.92700000000004,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clippy\\Flipping Pages.mp4",
+      "source_path": "Documents/Data/Cache/5cefcf0610cbc03fb166590c2237d33d1f4d539629f7a306a0c7363629f3c7cd.mp4",
       "cache_key": "5cefcf0610cbc03fb166590c2237d33d1f4d539629f7a306a0c7363629f3c7cd.mp4",
       "source_size": 1590850,
       "source_mtime": 1746776250.9844878,
@@ -251,7 +291,8 @@
       "looping": false,
       "muted": false,
       "show_border": true,
-      "was_playing": false
+      "was_playing": false,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -281,7 +322,7 @@
       "z_value": -9.91100000000005,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clippy\\The Majestic.mp4",
+      "source_path": "Documents/Data/Cache/b5d2833f5fee4d4da4013e842ea0dddd3f945770a0fa6ca1050eae43d90a927e.mp4",
       "cache_key": "b5d2833f5fee4d4da4013e842ea0dddd3f945770a0fa6ca1050eae43d90a927e.mp4",
       "source_size": 2322899,
       "source_mtime": 1746776250.9874973,
@@ -291,7 +332,8 @@
       "looping": true,
       "muted": false,
       "show_border": true,
-      "was_playing": true
+      "was_playing": true,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -390,7 +432,7 @@
       "z_value": -9.938000000000034,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clippy\\More Clay, Yay! - Closer.mp4",
+      "source_path": "Documents/Data/Cache/2bc88ce6d7f7742611ca185848c5ddcda9894b5144823136a7edff790fdc5053.mp4",
       "cache_key": "2bc88ce6d7f7742611ca185848c5ddcda9894b5144823136a7edff790fdc5053.mp4",
       "source_size": 1485380,
       "source_mtime": 1777360720.047215,
@@ -400,7 +442,8 @@
       "looping": false,
       "muted": false,
       "show_border": true,
-      "was_playing": false
+      "was_playing": false,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -414,7 +457,7 @@
       "z_value": -9.934000000000037,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clippy\\More Clay, Yay! - Aligned.mp4",
+      "source_path": "Documents/Data/Cache/1281a0ea3c8a8931d8d0ce3f9ac45f87bdf4f6616a817251e4b2a4ca6cee813a.mp4",
       "cache_key": "1281a0ea3c8a8931d8d0ce3f9ac45f87bdf4f6616a817251e4b2a4ca6cee813a.mp4",
       "source_size": 1620030,
       "source_mtime": 1777361292.166308,
@@ -424,7 +467,8 @@
       "looping": false,
       "muted": false,
       "show_border": true,
-      "was_playing": false
+      "was_playing": false,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -438,7 +482,7 @@
       "z_value": -9.936000000000035,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clippy\\More Clay, Yay! - Things.mp4",
+      "source_path": "Documents/Data/Cache/aa77f99cc0e0c9f5f2c56b38196a9a7613385e2bfbb6d4ab7987fb061a21b9de.mp4",
       "cache_key": "aa77f99cc0e0c9f5f2c56b38196a9a7613385e2bfbb6d4ab7987fb061a21b9de.mp4",
       "source_size": 1421219,
       "source_mtime": 1777362903.5822196,
@@ -448,7 +492,8 @@
       "looping": false,
       "muted": false,
       "show_border": true,
-      "was_playing": false
+      "was_playing": false,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -526,11 +571,12 @@
       "source_mtime": 1746777974.8455167,
       "caption": "Compelling Header",
       "volume": 50,
-      "playback_pos": 43460,
+      "playback_pos": 0,
       "looping": true,
       "muted": false,
       "show_border": true,
-      "was_playing": true
+      "was_playing": false,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -550,11 +596,12 @@
       "source_mtime": 1746374795.2638292,
       "caption": "Gen-3 Alpha Turbo 3873545513, hair waving in the w, Cropped - downloaded, M 5",
       "volume": 50,
-      "playback_pos": 5208,
+      "playback_pos": 0,
       "looping": false,
       "muted": false,
       "show_border": true,
-      "was_playing": false
+      "was_playing": false,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -605,17 +652,18 @@
       "z_value": -9.92900000000004,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clippy\\Lovely day in the park.mp4",
+      "source_path": "Documents/Data/Cache/3f563dd39f6b493d9330ead8245e01665e9e72a9fe0ec34469ed6a7801037741.mp4",
       "cache_key": "3f563dd39f6b493d9330ead8245e01665e9e72a9fe0ec34469ed6a7801037741.mp4",
       "source_size": 1088124,
       "source_mtime": 1746776250.985492,
       "caption": "Lovely day in the park",
       "volume": 50,
-      "playback_pos": 4916,
+      "playback_pos": 4875,
       "looping": true,
       "muted": false,
       "show_border": true,
-      "was_playing": true
+      "was_playing": true,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -661,17 +709,18 @@
       "z_value": -9.932000000000038,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Compelling Header\\Clippy\\More Clay, Yay! - Decisions.mp4",
+      "source_path": "Documents/Data/Cache/8e4bbf937e615720c513965fe86a8739953199edb77e71fe8b220ea67c3d941c.mp4",
       "cache_key": "8e4bbf937e615720c513965fe86a8739953199edb77e71fe8b220ea67c3d941c.mp4",
       "source_size": 1292848,
       "source_mtime": 1777360451.7122843,
       "caption": "More Clay, Yay! - Decisions",
       "volume": 50,
-      "playback_pos": 833,
+      "playback_pos": 1416,
       "looping": true,
       "muted": false,
       "show_border": true,
-      "was_playing": true
+      "was_playing": true,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -688,6 +737,134 @@
       "label": "It's only thinking about satisfaction",
       "depth_front": false,
       "node_tint": "#2a3a2f"
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "f692c1240dba41e78614a0f1b03d4b38",
+      "x": -688.637376998111,
+      "y": -76.49141628941015,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.90900000000005,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\nd5a5c73fee1fd7bc8609113615a9ab7afdcc81634911f4dcd301d0db480de6d2.mp4",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "191f6f0087af48ddbd66eb3af5d839e2",
+      "x": 404.89668730857886,
+      "y": -456.24145822773056,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.908000000000051,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\n5cefcf0610cbc03fb166590c2237d33d1f4d539629f7a306a0c7363629f3c7cd.mp4",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "fc33877740c64e64afc7c5654861e796",
+      "x": -1587.7726363863676,
+      "y": 269.7903614099559,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.907000000000052,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\nb5d2833f5fee4d4da4013e842ea0dddd3f945770a0fa6ca1050eae43d90a927e.mp4",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "983c7a6f033047d38eb974a92d0211b7",
+      "x": -1708.6783776253767,
+      "y": 1442.415740018495,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.906000000000052,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\naa77f99cc0e0c9f5f2c56b38196a9a7613385e2bfbb6d4ab7987fb061a21b9de.mp4",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "14ebbef29f3144ce952e10453fb3bf8a",
+      "x": -1389.1478818100497,
+      "y": 990.3569284834082,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.905000000000053,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\n1281a0ea3c8a8931d8d0ce3f9ac45f87bdf4f6616a817251e4b2a4ca6cee813a.mp4",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "da580ed8764d4b8d9910a0c0df889aa9",
+      "x": -1214.0756725781362,
+      "y": 1746.3634003842856,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.904000000000053,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\n2bc88ce6d7f7742611ca185848c5ddcda9894b5144823136a7edff790fdc5053.mp4",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "f6c580c99f6f4d1db9ee8bbe2b765ae9",
+      "x": 136.08941046825657,
+      "y": 485.70696978521653,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.903000000000054,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\n3f563dd39f6b493d9330ead8245e01665e9e72a9fe0ec34469ed6a7801037741.mp4",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "4c5dbe13178942ef8cbf59329bc0fabb",
+      "x": -723.5761346425181,
+      "y": 595.0539034321894,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.902000000000054,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\n8e4bbf937e615720c513965fe86a8739953199edb77e71fe8b220ea67c3d941c.mp4",
+      "depth_front": false,
+      "node_tint": ""
     }
   ],
   "connections": [
@@ -778,54 +955,48 @@
     {
       "start_uuid": "4d1033dfe398428483542fef7e272b7b",
       "end_uuid": "663f57ddb38049a1a6ee4363abbf45ed"
+    },
+    {
+      "start_uuid": "11e7d12cce82437097cc35571726c4e1",
+      "end_uuid": "f692c1240dba41e78614a0f1b03d4b38"
+    },
+    {
+      "start_uuid": "152a568d51c64445a911674ccb1e731a",
+      "end_uuid": "191f6f0087af48ddbd66eb3af5d839e2"
+    },
+    {
+      "start_uuid": "4d1033dfe398428483542fef7e272b7b",
+      "end_uuid": "fc33877740c64e64afc7c5654861e796"
+    },
+    {
+      "start_uuid": "8c8928400c8d473c8215f55f92df9aaa",
+      "end_uuid": "983c7a6f033047d38eb974a92d0211b7"
+    },
+    {
+      "start_uuid": "3377bdb8d0804e16816c1200bcc8e4c9",
+      "end_uuid": "14ebbef29f3144ce952e10453fb3bf8a"
+    },
+    {
+      "start_uuid": "0f7a6b3e5d5b444cb5bcaa0ba71afba3",
+      "end_uuid": "da580ed8764d4b8d9910a0c0df889aa9"
+    },
+    {
+      "start_uuid": "f62666806f35467aa74195969adcaefe",
+      "end_uuid": "f6c580c99f6f4d1db9ee8bbe2b765ae9"
+    },
+    {
+      "start_uuid": "81b8267a806b47239a399b8e89924e7d",
+      "end_uuid": "4c5dbe13178942ef8cbf59329bc0fabb"
     }
   ],
   "viewport": {
-    "camera_x": 1049.4435201320014,
-    "camera_y": -860.199606665575,
+    "camera_x": 1047.5319654505224,
+    "camera_y": -862.111161347054,
     "camera_zoom": 0.5231343940557616
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
   "last_browse_dirs": {},
-  "description_signature": {
-    "n_nodes": 31,
-    "n_edges": 22,
-    "density": 0.71,
-    "type_hist": {
-      "about": 0.452,
-      "warm": 0.065,
-      "palette": 0.032,
-      "video": 0.323,
-      "image": 0.129
-    },
-    "tag_bag": [
-      "video",
-      "clay",
-      "yay",
-      "new",
-      "good",
-      "like",
-      "image",
-      "header",
-      "captivating",
-      "title",
-      "things",
-      "single",
-      "grain",
-      "patience",
-      "worth",
-      "ton",
-      "ambition",
-      "amazing",
-      "word",
-      "comfort",
-      "case",
-      "its",
-      "start",
-      "book"
-    ]
-  },
-  "checksum": "00f1f083c0e32c50"
+  "checksum": "2501e0225d4efd8d"
 }
